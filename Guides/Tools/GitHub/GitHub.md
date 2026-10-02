@@ -5,7 +5,7 @@
 - [[GitHub - Creating a GitHub account]]
 - [[GitHub - Multiple GitHub accounts on same computer]]
 - [[GitHub - Adding SSH keys]]
-- [[GItHub - Adding remote repository]]
+- [[GitHub - Adding remote repository]]
 
 ## Related
 - [[Deploy a project to Vercel]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guides/Tools/GitHub/GItHub - Adding remote repository.md",
+                "file": "Guides/Tools/GitHub/GitHub - Adding remote repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GItHub - Adding remote repository"
+              "title": "GitHub - Adding remote repository"
             }
           }
         ]
@@ -211,10 +211,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "91bac040f4dc46b2",
+  "active": "fdbe797c3bb2bd00",
   "lastOpenFiles": [
     "Guides/Tools/GitHub/GitHub.md",
-    "Guides/Tools/GitHub/GItHub - Adding remote repository.md",
+    "Guides/Tools/GitHub/GitHub - Adding remote repository.md",
     "Guides/DevOps/Hosting/Hostingpalvelu.md",
     "Guides/Languages/C#.md",
     "Guides/Tools/GitHub/GitHub - Adding SSH keys.md",
